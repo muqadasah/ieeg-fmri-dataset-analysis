@@ -2,3 +2,6 @@
 __pycache__
 preprocess_iemu.m
 visualize_coverage.m
+
+# MNE preprocessed files
+*.fif
